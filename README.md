@@ -351,7 +351,7 @@ if let data = UserDefaults.standard.value(forKey: "<Any Key you want>") {
 
 ```
 
-### AFJSONable 
+### AZJSONable 
 
 
 - Let say, you want to convert Movie class object in dictionary to pass it in some api request. Just confirm it to protocol "AZJSONable" 
